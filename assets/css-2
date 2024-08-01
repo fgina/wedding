@@ -1,0 +1,18 @@
+﻿@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 400;
+  src: url(s/arimamadurai/v15/t5tmIRoeKYORG0WNMgnC3seB3T7Pqg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 500;
+  src: url(s/arimamadurai/v15/t5t7IRoeKYORG0WNMgnC3seB1c3supymeg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Arima Madurai';
+  font-style: normal;
+  font-weight: 900;
+  src: url(s/arimamadurai/v15/t5t7IRoeKYORG0WNMgnC3seB1b3oupymeg.ttf) format('truetype');
+}
